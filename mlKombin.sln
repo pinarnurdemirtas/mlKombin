@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mlKombin", "mlKombin.csproj", "{308D4F09-7B7C-4BB0-8F40-06C909E5E111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiKombin", "..\ApiKombin\ApiKombin.csproj", "{52C90AF7-51E4-DB8B-D4DC-63A1D7DC453A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{308D4F09-7B7C-4BB0-8F40-06C909E5E111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308D4F09-7B7C-4BB0-8F40-06C909E5E111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308D4F09-7B7C-4BB0-8F40-06C909E5E111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308D4F09-7B7C-4BB0-8F40-06C909E5E111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C90AF7-51E4-DB8B-D4DC-63A1D7DC453A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C90AF7-51E4-DB8B-D4DC-63A1D7DC453A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C90AF7-51E4-DB8B-D4DC-63A1D7DC453A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C90AF7-51E4-DB8B-D4DC-63A1D7DC453A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684E16C5-F2AF-49F3-A408-D6C214127130}
+	EndGlobalSection
+EndGlobal
